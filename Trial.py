@@ -1,3 +1,3 @@
-x=2
-y=3
-print(x+y)
+x=input("Hello there, type anything here : ")
+print(x)
+
